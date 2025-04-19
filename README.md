@@ -65,14 +65,18 @@ print(cm)
 ```
 
 ## Output:
-![alt text](Image-1.png)
+![image](https://github.com/user-attachments/assets/16c7a0af-834f-4b77-9fd9-35ff9311a82b)
 
 
-![alt text](Image-2.png)
 
-![alt text](Image-3.png)
+![image](https://github.com/user-attachments/assets/13506535-0bd5-46f6-a4e7-e69a02e92b07)
 
-![alt text](Image-4.png)
+
+![image](https://github.com/user-attachments/assets/fda0f929-9369-419c-b45d-8abf33a530ff)
+
+
+![image](https://github.com/user-attachments/assets/bdc96662-7958-4645-959a-7f50fbbbec65)
+
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
